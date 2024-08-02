@@ -1,0 +1,9 @@
+com\iiht\store\entity\Bread.class
+com\iiht\store\StoreApplication.class
+com\iiht\store\controller\StoreController.class
+com\iiht\store\entity\Egg.class
+com\iiht\store\Repository\EggRepository.class
+com\iiht\store\service\StoreService.class
+com\iiht\store\Repository\BreadRepository.class
+com\iiht\store\entity\Milk.class
+com\iiht\store\Repository\MilkRepository.class
